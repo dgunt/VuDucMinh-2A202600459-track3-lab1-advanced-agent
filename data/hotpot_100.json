@@ -1,0 +1,1602 @@
+[
+  {
+    "qid": "e001",
+    "difficulty": "easy",
+    "question": "Which university did Marie Curie teach at?",
+    "gold_answer": "University of Paris",
+    "context": [
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie taught at the University of Paris."
+      },
+      {
+        "title": "University of Paris",
+        "text": "The University of Paris was a major university in France."
+      }
+    ]
+  },
+  {
+    "qid": "e002",
+    "difficulty": "easy",
+    "question": "What instrument did Frédéric Chopin mainly play?",
+    "gold_answer": "piano",
+    "context": [
+      {
+        "title": "Frédéric Chopin",
+        "text": "Frédéric Chopin was a Polish composer and virtuoso pianist."
+      },
+      {
+        "title": "Piano",
+        "text": "The piano is a keyboard instrument."
+      }
+    ]
+  },
+  {
+    "qid": "e003",
+    "difficulty": "easy",
+    "question": "Which country was Nelson Mandela president of?",
+    "gold_answer": "South Africa",
+    "context": [
+      {
+        "title": "Nelson Mandela",
+        "text": "Nelson Mandela served as president of South Africa."
+      },
+      {
+        "title": "South Africa",
+        "text": "South Africa is a country at the southern tip of Africa."
+      }
+    ]
+  },
+  {
+    "qid": "e004",
+    "difficulty": "easy",
+    "question": "What field did Alan Turing study in addition to computer science?",
+    "gold_answer": "mathematics",
+    "context": [
+      {
+        "title": "Alan Turing",
+        "text": "Alan Turing was a computer scientist and mathematician."
+      },
+      {
+        "title": "Mathematics",
+        "text": "Mathematics is the study of numbers, quantity, and structure."
+      }
+    ]
+  },
+  {
+    "qid": "e005",
+    "difficulty": "easy",
+    "question": "Which city is the capital of Japan?",
+    "gold_answer": "Tokyo",
+    "context": [
+      {
+        "title": "Japan",
+        "text": "The capital city of Japan is Tokyo."
+      },
+      {
+        "title": "Tokyo",
+        "text": "Tokyo is the capital and most populous city of Japan."
+      }
+    ]
+  },
+  {
+    "qid": "e006",
+    "difficulty": "easy",
+    "question": "What language is primarily spoken in Mexico?",
+    "gold_answer": "Spanish",
+    "context": [
+      {
+        "title": "Mexico",
+        "text": "The primary language spoken in Mexico is Spanish."
+      },
+      {
+        "title": "Spanish language",
+        "text": "Spanish is a Romance language."
+      }
+    ]
+  },
+  {
+    "qid": "e007",
+    "difficulty": "easy",
+    "question": "Which scientist developed the theory of relativity?",
+    "gold_answer": "Albert Einstein",
+    "context": [
+      {
+        "title": "Theory of relativity",
+        "text": "The theory of relativity was developed by Albert Einstein."
+      },
+      {
+        "title": "Albert Einstein",
+        "text": "Albert Einstein was a theoretical physicist."
+      }
+    ]
+  },
+  {
+    "qid": "e008",
+    "difficulty": "easy",
+    "question": "What instrument did Louis Armstrong play?",
+    "gold_answer": "trumpet",
+    "context": [
+      {
+        "title": "Louis Armstrong",
+        "text": "Louis Armstrong was an American jazz trumpeter and singer."
+      },
+      {
+        "title": "Trumpet",
+        "text": "The trumpet is a brass instrument."
+      }
+    ]
+  },
+  {
+    "qid": "e009",
+    "difficulty": "easy",
+    "question": "Which university did Stephen Hawking study at?",
+    "gold_answer": "University of Oxford",
+    "context": [
+      {
+        "title": "Stephen Hawking",
+        "text": "Stephen Hawking studied at the University of Oxford."
+      },
+      {
+        "title": "University of Oxford",
+        "text": "The University of Oxford is a collegiate research university in England."
+      }
+    ]
+  },
+  {
+    "qid": "e010",
+    "difficulty": "easy",
+    "question": "What sport is Serena Williams associated with?",
+    "gold_answer": "tennis",
+    "context": [
+      {
+        "title": "Serena Williams",
+        "text": "Serena Williams is an American professional tennis player."
+      },
+      {
+        "title": "Tennis",
+        "text": "Tennis is a racket sport played individually or in doubles."
+      }
+    ]
+  },
+  {
+    "qid": "e011",
+    "difficulty": "easy",
+    "question": "Which country is Cairo the capital of?",
+    "gold_answer": "Egypt",
+    "context": [
+      {
+        "title": "Cairo",
+        "text": "Cairo is the capital city of Egypt."
+      },
+      {
+        "title": "Egypt",
+        "text": "Egypt is a country in North Africa."
+      }
+    ]
+  },
+  {
+    "qid": "e012",
+    "difficulty": "easy",
+    "question": "What field did Leonardo da Vinci work in besides painting?",
+    "gold_answer": "engineering",
+    "context": [
+      {
+        "title": "Leonardo da Vinci",
+        "text": "Leonardo da Vinci was a painter and engineer."
+      },
+      {
+        "title": "Engineering",
+        "text": "Engineering involves the design and construction of machines and structures."
+      }
+    ]
+  },
+  {
+    "qid": "e013",
+    "difficulty": "easy",
+    "question": "Which planet is known as the Red Planet?",
+    "gold_answer": "Mars",
+    "context": [
+      {
+        "title": "Red Planet",
+        "text": "Mars is commonly known as the Red Planet."
+      },
+      {
+        "title": "Mars",
+        "text": "Mars is the fourth planet from the Sun."
+      }
+    ]
+  },
+  {
+    "qid": "e014",
+    "difficulty": "easy",
+    "question": "What animal is the giant panda classified as?",
+    "gold_answer": "bear",
+    "context": [
+      {
+        "title": "Giant panda",
+        "text": "The giant panda is a bear native to China."
+      },
+      {
+        "title": "Bear",
+        "text": "Bears are carnivoran mammals of the family Ursidae."
+      }
+    ]
+  },
+  {
+    "qid": "e015",
+    "difficulty": "easy",
+    "question": "Which ocean is the largest on Earth?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Oceans",
+        "text": "The Pacific Ocean is the largest ocean on Earth."
+      },
+      {
+        "title": "Pacific Ocean",
+        "text": "The Pacific Ocean extends from Asia and Australia to the Americas."
+      }
+    ]
+  },
+  {
+    "qid": "e016",
+    "difficulty": "easy",
+    "question": "Which university did John Maynard Keynes attend?",
+    "gold_answer": "University of Cambridge",
+    "context": [
+      {
+        "title": "John Maynard Keynes",
+        "text": "John Maynard Keynes attended the University of Cambridge."
+      },
+      {
+        "title": "University of Cambridge",
+        "text": "The University of Cambridge is a collegiate public research university in England."
+      }
+    ]
+  },
+  {
+    "qid": "e017",
+    "difficulty": "easy",
+    "question": "What instrument did Yo-Yo Ma mainly play?",
+    "gold_answer": "cello",
+    "context": [
+      {
+        "title": "Yo-Yo Ma",
+        "text": "Yo-Yo Ma is a cellist."
+      },
+      {
+        "title": "Cello",
+        "text": "The cello is a bowed string instrument."
+      }
+    ]
+  },
+  {
+    "qid": "e018",
+    "difficulty": "easy",
+    "question": "Which country is Buenos Aires the capital of?",
+    "gold_answer": "Argentina",
+    "context": [
+      {
+        "title": "Buenos Aires",
+        "text": "Buenos Aires is the capital city of Argentina."
+      },
+      {
+        "title": "Argentina",
+        "text": "Argentina is a country in South America."
+      }
+    ]
+  },
+  {
+    "qid": "e019",
+    "difficulty": "easy",
+    "question": "What field did Rosalind Franklin study in addition to chemistry?",
+    "gold_answer": "biology",
+    "context": [
+      {
+        "title": "Rosalind Franklin",
+        "text": "Rosalind Franklin was a chemist and biologist."
+      },
+      {
+        "title": "Biology",
+        "text": "Biology is the scientific study of life."
+      }
+    ]
+  },
+  {
+    "qid": "e020",
+    "difficulty": "easy",
+    "question": "Which language is primarily spoken in Germany?",
+    "gold_answer": "German",
+    "context": [
+      {
+        "title": "Germany",
+        "text": "The primary language spoken in Germany is German."
+      },
+      {
+        "title": "German language",
+        "text": "German is a West Germanic language."
+      }
+    ]
+  },
+  {
+    "qid": "e021",
+    "difficulty": "easy",
+    "question": "Which country was Angela Merkel chancellor of?",
+    "gold_answer": "Germany",
+    "context": [
+      {
+        "title": "Angela Merkel",
+        "text": "Angela Merkel served as chancellor of Germany."
+      },
+      {
+        "title": "Germany",
+        "text": "Germany is a country in Central Europe."
+      }
+    ]
+  },
+  {
+    "qid": "e022",
+    "difficulty": "easy",
+    "question": "What instrument did Miles Davis play?",
+    "gold_answer": "trumpet",
+    "context": [
+      {
+        "title": "Miles Davis",
+        "text": "Miles Davis was an American jazz trumpeter."
+      },
+      {
+        "title": "Trumpet",
+        "text": "The trumpet is a brass instrument used in many musical genres."
+      }
+    ]
+  },
+  {
+    "qid": "e023",
+    "difficulty": "easy",
+    "question": "Which university did Margaret Thatcher attend?",
+    "gold_answer": "University of Oxford",
+    "context": [
+      {
+        "title": "Margaret Thatcher",
+        "text": "Margaret Thatcher studied at the University of Oxford."
+      },
+      {
+        "title": "University of Oxford",
+        "text": "Oxford is one of the oldest universities in the world."
+      }
+    ]
+  },
+  {
+    "qid": "e024",
+    "difficulty": "easy",
+    "question": "What sport is Michael Phelps associated with?",
+    "gold_answer": "swimming",
+    "context": [
+      {
+        "title": "Michael Phelps",
+        "text": "Michael Phelps is an American former competitive swimmer."
+      },
+      {
+        "title": "Swimming",
+        "text": "Swimming is an individual or team racing sport."
+      }
+    ]
+  },
+  {
+    "qid": "e025",
+    "difficulty": "easy",
+    "question": "Which country is Nairobi the capital of?",
+    "gold_answer": "Kenya",
+    "context": [
+      {
+        "title": "Nairobi",
+        "text": "Nairobi is the capital city of Kenya."
+      },
+      {
+        "title": "Kenya",
+        "text": "Kenya is a country in East Africa."
+      }
+    ]
+  },
+  {
+    "qid": "e026",
+    "difficulty": "easy",
+    "question": "What field did Carl Gauss work in besides mathematics?",
+    "gold_answer": "physics",
+    "context": [
+      {
+        "title": "Carl Gauss",
+        "text": "Carl Gauss was a mathematician and physicist."
+      },
+      {
+        "title": "Physics",
+        "text": "Physics studies matter, motion, energy, and force."
+      }
+    ]
+  },
+  {
+    "qid": "e027",
+    "difficulty": "easy",
+    "question": "Which language is primarily spoken in Saudi Arabia?",
+    "gold_answer": "Arabic",
+    "context": [
+      {
+        "title": "Saudi Arabia",
+        "text": "The official language of Saudi Arabia is Arabic."
+      },
+      {
+        "title": "Arabic language",
+        "text": "Arabic is a Semitic language."
+      }
+    ]
+  },
+  {
+    "qid": "e028",
+    "difficulty": "easy",
+    "question": "Which country is Bangkok the capital of?",
+    "gold_answer": "Thailand",
+    "context": [
+      {
+        "title": "Bangkok",
+        "text": "Bangkok is the capital city of Thailand."
+      },
+      {
+        "title": "Thailand",
+        "text": "Thailand is a country in Southeast Asia."
+      }
+    ]
+  },
+  {
+    "qid": "e029",
+    "difficulty": "easy",
+    "question": "What instrument did Wolfgang Amadeus Mozart mainly play?",
+    "gold_answer": "piano",
+    "context": [
+      {
+        "title": "Wolfgang Amadeus Mozart",
+        "text": "Mozart was a prolific composer and a skilled pianist."
+      },
+      {
+        "title": "Piano",
+        "text": "The piano is a musical instrument played using a keyboard."
+      }
+    ]
+  },
+  {
+    "qid": "e030",
+    "difficulty": "easy",
+    "question": "Which university did Amartya Sen attend?",
+    "gold_answer": "University of Calcutta",
+    "context": [
+      {
+        "title": "Amartya Sen",
+        "text": "Amartya Sen studied at the University of Calcutta."
+      },
+      {
+        "title": "University of Calcutta",
+        "text": "The University of Calcutta is a public state university in India."
+      }
+    ]
+  },
+  {
+    "qid": "m001",
+    "difficulty": "medium",
+    "question": "What river flows through the capital city of Austria?",
+    "gold_answer": "Danube",
+    "context": [
+      {
+        "title": "Austria",
+        "text": "The capital city of Austria is Vienna."
+      },
+      {
+        "title": "Vienna",
+        "text": "Vienna is situated on the Danube River."
+      }
+    ]
+  },
+  {
+    "qid": "m002",
+    "difficulty": "medium",
+    "question": "Which ocean borders the country whose capital is Rabat?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Rabat",
+        "text": "Rabat is the capital city of Morocco."
+      },
+      {
+        "title": "Morocco",
+        "text": "Morocco borders the Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "m003",
+    "difficulty": "medium",
+    "question": "Which language family does the official language of Italy belong to?",
+    "gold_answer": "Romance",
+    "context": [
+      {
+        "title": "Italy",
+        "text": "The official language of Italy is Italian."
+      },
+      {
+        "title": "Italian language",
+        "text": "Italian is a Romance language."
+      }
+    ]
+  },
+  {
+    "qid": "m004",
+    "difficulty": "medium",
+    "question": "What sea borders the country whose capital is Amman?",
+    "gold_answer": "Dead Sea",
+    "context": [
+      {
+        "title": "Amman",
+        "text": "Amman is the capital city of Jordan."
+      },
+      {
+        "title": "Jordan",
+        "text": "Jordan borders the Dead Sea."
+      }
+    ]
+  },
+  {
+    "qid": "m005",
+    "difficulty": "medium",
+    "question": "Which mountain range contains the highest mountain in Pakistan?",
+    "gold_answer": "Himalayas",
+    "context": [
+      {
+        "title": "Pakistan",
+        "text": "K2 is one of the highest mountains in Pakistan."
+      },
+      {
+        "title": "K2",
+        "text": "K2 is part of the Himalayas region in standard school geography datasets."
+      }
+    ]
+  },
+  {
+    "qid": "m006",
+    "difficulty": "medium",
+    "question": "Which river flows through the city where Karl Marx was born?",
+    "gold_answer": "Moselle",
+    "context": [
+      {
+        "title": "Karl Marx",
+        "text": "Karl Marx was born in Trier."
+      },
+      {
+        "title": "Trier",
+        "text": "Trier lies on the Moselle River."
+      }
+    ]
+  },
+  {
+    "qid": "m007",
+    "difficulty": "medium",
+    "question": "Which ocean borders the country whose capital is Santiago?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Santiago",
+        "text": "Santiago is the capital city of Chile."
+      },
+      {
+        "title": "Chile",
+        "text": "Chile borders the Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "m008",
+    "difficulty": "medium",
+    "question": "Which language family does the primary language of France belong to?",
+    "gold_answer": "Romance",
+    "context": [
+      {
+        "title": "France",
+        "text": "The primary language of France is French."
+      },
+      {
+        "title": "French language",
+        "text": "French is a Romance language."
+      }
+    ]
+  },
+  {
+    "qid": "m009",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Wolfgang Amadeus Mozart was born?",
+    "gold_answer": "Salzach",
+    "context": [
+      {
+        "title": "Wolfgang Amadeus Mozart",
+        "text": "Mozart was born in Salzburg."
+      },
+      {
+        "title": "Salzburg",
+        "text": "Salzburg lies on the Salzach River."
+      }
+    ]
+  },
+  {
+    "qid": "m010",
+    "difficulty": "medium",
+    "question": "Which sea borders the country whose capital is Beirut?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Beirut",
+        "text": "Beirut is the capital city of Lebanon."
+      },
+      {
+        "title": "Lebanon",
+        "text": "Lebanon borders the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "m011",
+    "difficulty": "medium",
+    "question": "Which ocean borders the country whose capital is Lisbon?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Lisbon",
+        "text": "Lisbon is the capital city of Portugal."
+      },
+      {
+        "title": "Portugal",
+        "text": "Portugal borders the Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "m012",
+    "difficulty": "medium",
+    "question": "Which language family does the official language of Romania belong to?",
+    "gold_answer": "Romance",
+    "context": [
+      {
+        "title": "Romania",
+        "text": "The official language of Romania is Romanian."
+      },
+      {
+        "title": "Romanian language",
+        "text": "Romanian is a Romance language."
+      }
+    ]
+  },
+  {
+    "qid": "m013",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Sigmund Freud was born?",
+    "gold_answer": "Morava",
+    "context": [
+      {
+        "title": "Sigmund Freud",
+        "text": "Sigmund Freud was born in Pribor."
+      },
+      {
+        "title": "Pribor",
+        "text": "Pribor lies near the Morava river basin in simplified educational references."
+      }
+    ]
+  },
+  {
+    "qid": "m014",
+    "difficulty": "medium",
+    "question": "Which ocean borders the country whose capital is Lima?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Lima",
+        "text": "Lima is the capital city of Peru."
+      },
+      {
+        "title": "Peru",
+        "text": "Peru borders the Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "m015",
+    "difficulty": "medium",
+    "question": "Which language family does the official language of Spain belong to?",
+    "gold_answer": "Romance",
+    "context": [
+      {
+        "title": "Spain",
+        "text": "The official language of Spain is Spanish."
+      },
+      {
+        "title": "Spanish language",
+        "text": "Spanish is a Romance language."
+      }
+    ]
+  },
+  {
+    "qid": "m016",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Ada Lovelace was born?",
+    "gold_answer": "River Thames",
+    "context": [
+      {
+        "title": "Ada Lovelace",
+        "text": "Ada Lovelace was born in London."
+      },
+      {
+        "title": "London",
+        "text": "London is crossed by the River Thames."
+      }
+    ]
+  },
+  {
+    "qid": "m017",
+    "difficulty": "medium",
+    "question": "Which sea borders the country whose capital is Athens?",
+    "gold_answer": "Aegean Sea",
+    "context": [
+      {
+        "title": "Athens",
+        "text": "Athens is the capital city of Greece."
+      },
+      {
+        "title": "Greece",
+        "text": "Greece borders the Aegean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "m018",
+    "difficulty": "medium",
+    "question": "Which ocean borders the country whose capital is Buenos Aires?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Buenos Aires",
+        "text": "Buenos Aires is the capital city of Argentina."
+      },
+      {
+        "title": "Argentina",
+        "text": "Argentina borders the Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "m019",
+    "difficulty": "medium",
+    "question": "Which language family does the official language of Portugal belong to?",
+    "gold_answer": "Romance",
+    "context": [
+      {
+        "title": "Portugal",
+        "text": "The official language of Portugal is Portuguese."
+      },
+      {
+        "title": "Portuguese language",
+        "text": "Portuguese is a Romance language."
+      }
+    ]
+  },
+  {
+    "qid": "m020",
+    "difficulty": "medium",
+    "question": "What river flows through the capital city of Hungary?",
+    "gold_answer": "Danube",
+    "context": [
+      {
+        "title": "Hungary",
+        "text": "The capital city of Hungary is Budapest."
+      },
+      {
+        "title": "Budapest",
+        "text": "Budapest is divided by the Danube River."
+      }
+    ]
+  },
+  {
+    "qid": "m021",
+    "difficulty": "medium",
+    "question": "Which ocean borders the country whose capital is Algiers?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Algiers",
+        "text": "Algiers is the capital city of Algeria."
+      },
+      {
+        "title": "Algeria",
+        "text": "Algeria borders the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "m022",
+    "difficulty": "medium",
+    "question": "Which language family does the official language of Brazil belong to?",
+    "gold_answer": "Romance",
+    "context": [
+      {
+        "title": "Brazil",
+        "text": "The official language of Brazil is Portuguese."
+      },
+      {
+        "title": "Portuguese language",
+        "text": "Portuguese is a Romance language."
+      }
+    ]
+  },
+  {
+    "qid": "m023",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Johannes Kepler was born?",
+    "gold_answer": "Neckar",
+    "context": [
+      {
+        "title": "Johannes Kepler",
+        "text": "Johannes Kepler was born in Weil der Stadt."
+      },
+      {
+        "title": "Weil der Stadt",
+        "text": "Weil der Stadt lies in the Neckar region."
+      }
+    ]
+  },
+  {
+    "qid": "m024",
+    "difficulty": "medium",
+    "question": "Which sea borders the country whose capital is Tunis?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Tunis",
+        "text": "Tunis is the capital city of Tunisia."
+      },
+      {
+        "title": "Tunisia",
+        "text": "Tunisia borders the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "m025",
+    "difficulty": "medium",
+    "question": "Which ocean borders the country whose capital is Dublin?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Dublin",
+        "text": "Dublin is the capital city of Ireland."
+      },
+      {
+        "title": "Ireland",
+        "text": "Ireland borders the Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "m026",
+    "difficulty": "medium",
+    "question": "Which language family does the official language of Moldova belong to?",
+    "gold_answer": "Romance",
+    "context": [
+      {
+        "title": "Moldova",
+        "text": "The official language of Moldova is Romanian."
+      },
+      {
+        "title": "Romanian language",
+        "text": "Romanian is a Romance language."
+      }
+    ]
+  },
+  {
+    "qid": "m027",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Johann Sebastian Bach was born?",
+    "gold_answer": "Werra",
+    "context": [
+      {
+        "title": "Johann Sebastian Bach",
+        "text": "Johann Sebastian Bach was born in Eisenach."
+      },
+      {
+        "title": "Eisenach",
+        "text": "Eisenach is located near the Werra River."
+      }
+    ]
+  },
+  {
+    "qid": "m028",
+    "difficulty": "medium",
+    "question": "Which sea borders the country whose capital is Tripoli?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Tripoli",
+        "text": "Tripoli is the capital city of Libya."
+      },
+      {
+        "title": "Libya",
+        "text": "Libya borders the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "m029",
+    "difficulty": "medium",
+    "question": "Which ocean borders the country whose capital is Montevideo?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Montevideo",
+        "text": "Montevideo is the capital city of Uruguay."
+      },
+      {
+        "title": "Uruguay",
+        "text": "Uruguay borders the Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "m030",
+    "difficulty": "medium",
+    "question": "Which language family does the official language of Catalonia's main country Spain belong to?",
+    "gold_answer": "Romance",
+    "context": [
+      {
+        "title": "Spain",
+        "text": "The official language of Spain is Spanish."
+      },
+      {
+        "title": "Spanish language",
+        "text": "Spanish is a Romance language."
+      }
+    ]
+  },
+  {
+    "qid": "m031",
+    "difficulty": "medium",
+    "question": "What river flows through the capital city of Slovakia?",
+    "gold_answer": "Danube",
+    "context": [
+      {
+        "title": "Slovakia",
+        "text": "The capital city of Slovakia is Bratislava."
+      },
+      {
+        "title": "Bratislava",
+        "text": "Bratislava lies on the Danube River."
+      }
+    ]
+  },
+  {
+    "qid": "m032",
+    "difficulty": "medium",
+    "question": "Which sea borders the country whose capital is Valletta?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Valletta",
+        "text": "Valletta is the capital city of Malta."
+      },
+      {
+        "title": "Malta",
+        "text": "Malta is located in the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "m033",
+    "difficulty": "medium",
+    "question": "Which ocean borders the country whose capital is Reykjavik?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Reykjavik",
+        "text": "Reykjavik is the capital city of Iceland."
+      },
+      {
+        "title": "Iceland",
+        "text": "Iceland is located in the North Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "m034",
+    "difficulty": "medium",
+    "question": "Which language family does the official language of Belgium's southern region belong to?",
+    "gold_answer": "Romance",
+    "context": [
+      {
+        "title": "Belgium",
+        "text": "One official language of Belgium's southern region is French."
+      },
+      {
+        "title": "French language",
+        "text": "French is a Romance language."
+      }
+    ]
+  },
+  {
+    "qid": "m035",
+    "difficulty": "medium",
+    "question": "What river flows through the city where James Joyce was born?",
+    "gold_answer": "River Liffey",
+    "context": [
+      {
+        "title": "James Joyce",
+        "text": "James Joyce was born in Dublin."
+      },
+      {
+        "title": "Dublin",
+        "text": "Dublin is divided by the River Liffey."
+      }
+    ]
+  },
+  {
+    "qid": "h001",
+    "difficulty": "hard",
+    "question": "Which mountain range contains the highest mountain in the country whose capital is Kathmandu?",
+    "gold_answer": "Himalayas",
+    "context": [
+      {
+        "title": "Kathmandu",
+        "text": "Kathmandu is the capital city of Nepal."
+      },
+      {
+        "title": "Nepal",
+        "text": "Mount Everest, the highest mountain in Nepal, is part of the Himalayas."
+      }
+    ]
+  },
+  {
+    "qid": "h002",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Petra is located?",
+    "gold_answer": "Dead Sea",
+    "context": [
+      {
+        "title": "Petra",
+        "text": "Petra is a historical city in Jordan."
+      },
+      {
+        "title": "Jordan",
+        "text": "Jordan borders the Dead Sea to the west."
+      }
+    ]
+  },
+  {
+    "qid": "h003",
+    "difficulty": "hard",
+    "question": "Which mountain range contains the highest mountain in the country whose capital is Thimphu?",
+    "gold_answer": "Himalayas",
+    "context": [
+      {
+        "title": "Thimphu",
+        "text": "Thimphu is the capital city of Bhutan."
+      },
+      {
+        "title": "Bhutan",
+        "text": "Gangkhar Puensum, the highest mountain in Bhutan, is in the Himalayas."
+      }
+    ]
+  },
+  {
+    "qid": "h004",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Byblos is located?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Byblos",
+        "text": "Byblos is an ancient city in Lebanon."
+      },
+      {
+        "title": "Lebanon",
+        "text": "Lebanon borders the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "h005",
+    "difficulty": "hard",
+    "question": "Which mountain range contains the highest mountain in the country whose capital is Yerevan?",
+    "gold_answer": "Caucasus",
+    "context": [
+      {
+        "title": "Yerevan",
+        "text": "Yerevan is the capital city of Armenia."
+      },
+      {
+        "title": "Armenia",
+        "text": "Mount Aragats, the highest mountain in Armenia, lies in the Lesser Caucasus region."
+      }
+    ]
+  },
+  {
+    "qid": "h006",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Jerash is located?",
+    "gold_answer": "Dead Sea",
+    "context": [
+      {
+        "title": "Jerash",
+        "text": "Jerash is a city in Jordan."
+      },
+      {
+        "title": "Jordan",
+        "text": "Jordan borders the Dead Sea."
+      }
+    ]
+  },
+  {
+    "qid": "h007",
+    "difficulty": "hard",
+    "question": "Which mountain range contains the highest mountain in the country whose capital is Tbilisi?",
+    "gold_answer": "Caucasus",
+    "context": [
+      {
+        "title": "Tbilisi",
+        "text": "Tbilisi is the capital city of Georgia."
+      },
+      {
+        "title": "Georgia",
+        "text": "Mount Shkhara, Georgia's highest mountain, is in the Greater Caucasus."
+      }
+    ]
+  },
+  {
+    "qid": "h008",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Tyre is located?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Tyre",
+        "text": "Tyre is a city in Lebanon."
+      },
+      {
+        "title": "Lebanon",
+        "text": "Lebanon borders the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "h009",
+    "difficulty": "hard",
+    "question": "Which mountain range contains the highest mountain in the country whose capital is Dushanbe?",
+    "gold_answer": "Pamir",
+    "context": [
+      {
+        "title": "Dushanbe",
+        "text": "Dushanbe is the capital city of Tajikistan."
+      },
+      {
+        "title": "Tajikistan",
+        "text": "Ismoil Somoni Peak, the highest mountain in Tajikistan, is in the Pamir range."
+      }
+    ]
+  },
+  {
+    "qid": "h010",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Aqaba is located?",
+    "gold_answer": "Red Sea",
+    "context": [
+      {
+        "title": "Aqaba",
+        "text": "Aqaba is a coastal city in Jordan."
+      },
+      {
+        "title": "Jordan",
+        "text": "Jordan has a coastline on the Red Sea."
+      }
+    ]
+  },
+  {
+    "qid": "h011",
+    "difficulty": "hard",
+    "question": "Which mountain range contains the highest mountain in the country whose capital is Kabul?",
+    "gold_answer": "Hindu Kush",
+    "context": [
+      {
+        "title": "Kabul",
+        "text": "Kabul is the capital city of Afghanistan."
+      },
+      {
+        "title": "Afghanistan",
+        "text": "Noshaq, Afghanistan's highest mountain, is part of the Hindu Kush."
+      }
+    ]
+  },
+  {
+    "qid": "h012",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Sidon is located?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Sidon",
+        "text": "Sidon is a city in Lebanon."
+      },
+      {
+        "title": "Lebanon",
+        "text": "Lebanon borders the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "h013",
+    "difficulty": "hard",
+    "question": "Which mountain range contains the highest mountain in the country whose capital is Skopje?",
+    "gold_answer": "Sharr Mountains",
+    "context": [
+      {
+        "title": "Skopje",
+        "text": "Skopje is the capital city of North Macedonia."
+      },
+      {
+        "title": "North Macedonia",
+        "text": "Korab, the highest mountain associated with North Macedonia, lies in the Sharr region."
+      }
+    ]
+  },
+  {
+    "qid": "h014",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Leptis Magna is located?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Leptis Magna",
+        "text": "Leptis Magna is an ancient city in Libya."
+      },
+      {
+        "title": "Libya",
+        "text": "Libya borders the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "h015",
+    "difficulty": "hard",
+    "question": "Which mountain range contains the highest mountain in the country whose capital is Ljubljana?",
+    "gold_answer": "Julian Alps",
+    "context": [
+      {
+        "title": "Ljubljana",
+        "text": "Ljubljana is the capital city of Slovenia."
+      },
+      {
+        "title": "Slovenia",
+        "text": "Triglav, Slovenia's highest mountain, is in the Julian Alps."
+      }
+    ]
+  },
+  {
+    "qid": "h016",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Kairouan is located?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Kairouan",
+        "text": "Kairouan is a city in Tunisia."
+      },
+      {
+        "title": "Tunisia",
+        "text": "Tunisia borders the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "h017",
+    "difficulty": "hard",
+    "question": "Which mountain range contains the highest mountain in the country whose capital is Podgorica?",
+    "gold_answer": "Dinaric Alps",
+    "context": [
+      {
+        "title": "Podgorica",
+        "text": "Podgorica is the capital city of Montenegro."
+      },
+      {
+        "title": "Montenegro",
+        "text": "Zla Kolata, Montenegro's highest mountain, belongs to the Dinaric Alps region."
+      }
+    ]
+  },
+  {
+    "qid": "h018",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Sabratha is located?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Sabratha",
+        "text": "Sabratha is an ancient Roman city in Libya."
+      },
+      {
+        "title": "Libya",
+        "text": "Libya borders the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "h019",
+    "difficulty": "hard",
+    "question": "Which mountain range contains the highest mountain in the country whose capital is Bern?",
+    "gold_answer": "Alps",
+    "context": [
+      {
+        "title": "Bern",
+        "text": "Bern is the capital city of Switzerland."
+      },
+      {
+        "title": "Switzerland",
+        "text": "Dufourspitze, Switzerland's highest mountain, is in the Alps."
+      }
+    ]
+  },
+  {
+    "qid": "h020",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Carthage is located?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Carthage",
+        "text": "Carthage is an ancient city in Tunisia."
+      },
+      {
+        "title": "Tunisia",
+        "text": "Tunisia borders the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "h021",
+    "difficulty": "hard",
+    "question": "Which mountain range contains the highest mountain in the country whose capital is Vienna?",
+    "gold_answer": "Alps",
+    "context": [
+      {
+        "title": "Vienna",
+        "text": "Vienna is the capital city of Austria."
+      },
+      {
+        "title": "Austria",
+        "text": "Grossglockner, Austria's highest mountain, is in the Alps."
+      }
+    ]
+  },
+  {
+    "qid": "h022",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Volubilis is located?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Volubilis",
+        "text": "Volubilis is an archaeological site in Morocco."
+      },
+      {
+        "title": "Morocco",
+        "text": "Morocco borders the Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "h023",
+    "difficulty": "hard",
+    "question": "Which mountain range contains the highest mountain in the country whose capital is Andorra la Vella?",
+    "gold_answer": "Pyrenees",
+    "context": [
+      {
+        "title": "Andorra la Vella",
+        "text": "Andorra la Vella is the capital city of Andorra."
+      },
+      {
+        "title": "Andorra",
+        "text": "Coma Pedrosa, Andorra's highest mountain, lies in the Pyrenees."
+      }
+    ]
+  },
+  {
+    "qid": "h024",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Ghadames is located?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Ghadames",
+        "text": "Ghadames is an oasis town in Libya."
+      },
+      {
+        "title": "Libya",
+        "text": "Libya borders the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "h025",
+    "difficulty": "hard",
+    "question": "Which mountain range contains the highest mountain in the country whose capital is Madrid?",
+    "gold_answer": "Sierra Nevada",
+    "context": [
+      {
+        "title": "Madrid",
+        "text": "Madrid is the capital city of Spain."
+      },
+      {
+        "title": "Spain",
+        "text": "Mulhacén, Spain's highest mountain on the Iberian Peninsula, is in the Sierra Nevada."
+      }
+    ]
+  },
+  {
+    "qid": "h026",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Fes is located?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Fes",
+        "text": "Fes is a city in Morocco."
+      },
+      {
+        "title": "Morocco",
+        "text": "Morocco borders the Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "h027",
+    "difficulty": "hard",
+    "question": "Which mountain range contains the highest mountain in the country whose capital is Rome?",
+    "gold_answer": "Alps",
+    "context": [
+      {
+        "title": "Rome",
+        "text": "Rome is the capital city of Italy."
+      },
+      {
+        "title": "Italy",
+        "text": "Monte Bianco, Italy's highest mountain, is in the Alps."
+      }
+    ]
+  },
+  {
+    "qid": "h028",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Dougga is located?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Dougga",
+        "text": "Dougga is an archaeological site in Tunisia."
+      },
+      {
+        "title": "Tunisia",
+        "text": "Tunisia borders the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "h029",
+    "difficulty": "hard",
+    "question": "Which mountain range contains the highest mountain in the country whose capital is Oslo?",
+    "gold_answer": "Scandinavian Mountains",
+    "context": [
+      {
+        "title": "Oslo",
+        "text": "Oslo is the capital city of Norway."
+      },
+      {
+        "title": "Norway",
+        "text": "Galdhøpiggen, Norway's highest mountain, is part of the Scandinavian Mountains."
+      }
+    ]
+  },
+  {
+    "qid": "h030",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Chefchaouen is located?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Chefchaouen",
+        "text": "Chefchaouen is a city in Morocco."
+      },
+      {
+        "title": "Morocco",
+        "text": "Morocco borders the Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "h031",
+    "difficulty": "hard",
+    "question": "Which mountain range contains the highest mountain in the country whose capital is Athens?",
+    "gold_answer": "Pindus",
+    "context": [
+      {
+        "title": "Athens",
+        "text": "Athens is the capital city of Greece."
+      },
+      {
+        "title": "Greece",
+        "text": "Mount Smolikas, one of the highest mountains in Greece, is in the Pindus range."
+      }
+    ]
+  },
+  {
+    "qid": "h032",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Sousse is located?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Sousse",
+        "text": "Sousse is a city in Tunisia."
+      },
+      {
+        "title": "Tunisia",
+        "text": "Tunisia borders the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "h033",
+    "difficulty": "hard",
+    "question": "Which mountain range contains the highest mountain in the country whose capital is Sofia?",
+    "gold_answer": "Rila",
+    "context": [
+      {
+        "title": "Sofia",
+        "text": "Sofia is the capital city of Bulgaria."
+      },
+      {
+        "title": "Bulgaria",
+        "text": "Musala, Bulgaria's highest mountain, is in the Rila range."
+      }
+    ]
+  },
+  {
+    "qid": "h034",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Essaouira is located?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Essaouira",
+        "text": "Essaouira is a Moroccan city on the Atlantic coast."
+      },
+      {
+        "title": "Morocco",
+        "text": "Morocco borders the Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "h035",
+    "difficulty": "hard",
+    "question": "Which mountain range contains the highest mountain in the country whose capital is Bratislava?",
+    "gold_answer": "Carpathians",
+    "context": [
+      {
+        "title": "Bratislava",
+        "text": "Bratislava is the capital city of Slovakia."
+      },
+      {
+        "title": "Slovakia",
+        "text": "Gerlachovský štít, Slovakia's highest mountain, is in the Carpathians."
+      }
+    ]
+  }
+]
