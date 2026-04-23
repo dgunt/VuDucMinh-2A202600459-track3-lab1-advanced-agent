@@ -1,0 +1,650 @@
+{
+  "meta": {
+    "dataset": "hotpot_100.json::easy",
+    "mode": "ollama",
+    "num_records": 60,
+    "agents": [
+      "react",
+      "reflexion"
+    ]
+  },
+  "summary": {
+    "react": {
+      "count": 30,
+      "em": 0.9,
+      "avg_attempts": 1,
+      "avg_token_estimate": 304.73,
+      "avg_latency_ms": 8857.97
+    },
+    "reflexion": {
+      "count": 30,
+      "em": 1.0,
+      "avg_attempts": 1.0667,
+      "avg_token_estimate": 320.2,
+      "avg_latency_ms": 9142.63
+    },
+    "delta_reflexion_minus_react": {
+      "em_abs": 0.1,
+      "attempts_abs": 0.0667,
+      "tokens_abs": 15.47,
+      "latency_abs": 284.66
+    }
+  },
+  "failure_modes": {
+    "react": {
+      "none": 27,
+      "wrong_final_answer": 3
+    },
+    "reflexion": {
+      "none": 30
+    }
+  },
+  "examples": [
+    {
+      "qid": "e001",
+      "agent_type": "react",
+      "gold_answer": "University of Paris",
+      "predicted_answer": "The University of Paris",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e002",
+      "agent_type": "react",
+      "gold_answer": "piano",
+      "predicted_answer": "Piano",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e003",
+      "agent_type": "react",
+      "gold_answer": "South Africa",
+      "predicted_answer": "South Africa",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e004",
+      "agent_type": "react",
+      "gold_answer": "mathematics",
+      "predicted_answer": "Mathematics",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e005",
+      "agent_type": "react",
+      "gold_answer": "Tokyo",
+      "predicted_answer": "Tokyo",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e006",
+      "agent_type": "react",
+      "gold_answer": "Spanish",
+      "predicted_answer": "Spanish",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e007",
+      "agent_type": "react",
+      "gold_answer": "Albert Einstein",
+      "predicted_answer": "Albert Einstein",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e008",
+      "agent_type": "react",
+      "gold_answer": "trumpet",
+      "predicted_answer": "Trumpet",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e009",
+      "agent_type": "react",
+      "gold_answer": "University of Oxford",
+      "predicted_answer": "Stephen Hawking studied at the University of Oxford.",
+      "is_correct": false,
+      "attempts": 1,
+      "failure_mode": "wrong_final_answer",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e010",
+      "agent_type": "react",
+      "gold_answer": "tennis",
+      "predicted_answer": "Tennis",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e011",
+      "agent_type": "react",
+      "gold_answer": "Egypt",
+      "predicted_answer": "Egypt",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e012",
+      "agent_type": "react",
+      "gold_answer": "engineering",
+      "predicted_answer": "Engineer",
+      "is_correct": false,
+      "attempts": 1,
+      "failure_mode": "wrong_final_answer",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e013",
+      "agent_type": "react",
+      "gold_answer": "Mars",
+      "predicted_answer": "Mars",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e014",
+      "agent_type": "react",
+      "gold_answer": "bear",
+      "predicted_answer": "Bear",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e015",
+      "agent_type": "react",
+      "gold_answer": "Pacific Ocean",
+      "predicted_answer": "The Pacific Ocean",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e016",
+      "agent_type": "react",
+      "gold_answer": "University of Cambridge",
+      "predicted_answer": "University of Cambridge",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e017",
+      "agent_type": "react",
+      "gold_answer": "cello",
+      "predicted_answer": "Cello",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e018",
+      "agent_type": "react",
+      "gold_answer": "Argentina",
+      "predicted_answer": "Argentina",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e019",
+      "agent_type": "react",
+      "gold_answer": "biology",
+      "predicted_answer": "Biology",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e020",
+      "agent_type": "react",
+      "gold_answer": "German",
+      "predicted_answer": "German",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e021",
+      "agent_type": "react",
+      "gold_answer": "Germany",
+      "predicted_answer": "Germany",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e022",
+      "agent_type": "react",
+      "gold_answer": "trumpet",
+      "predicted_answer": "Trumpet",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e023",
+      "agent_type": "react",
+      "gold_answer": "University of Oxford",
+      "predicted_answer": "The answer to which university did Margaret Thatcher attend, based on the provided context and reflection memory, is \"the University of Oxford.\"",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e024",
+      "agent_type": "react",
+      "gold_answer": "swimming",
+      "predicted_answer": "Swimming",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e025",
+      "agent_type": "react",
+      "gold_answer": "Kenya",
+      "predicted_answer": "Kenya",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e026",
+      "agent_type": "react",
+      "gold_answer": "physics",
+      "predicted_answer": "Physics",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e027",
+      "agent_type": "react",
+      "gold_answer": "Arabic",
+      "predicted_answer": "Arabic",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e028",
+      "agent_type": "react",
+      "gold_answer": "Thailand",
+      "predicted_answer": "Thailand",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e029",
+      "agent_type": "react",
+      "gold_answer": "piano",
+      "predicted_answer": "Pianist",
+      "is_correct": false,
+      "attempts": 1,
+      "failure_mode": "wrong_final_answer",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e030",
+      "agent_type": "react",
+      "gold_answer": "University of Calcutta",
+      "predicted_answer": "University of Calcutta",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e001",
+      "agent_type": "reflexion",
+      "gold_answer": "University of Paris",
+      "predicted_answer": "The University of Paris",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e002",
+      "agent_type": "reflexion",
+      "gold_answer": "piano",
+      "predicted_answer": "Piano",
+      "is_correct": true,
+      "attempts": 2,
+      "failure_mode": "none",
+      "reflection_count": 1
+    },
+    {
+      "qid": "e003",
+      "agent_type": "reflexion",
+      "gold_answer": "South Africa",
+      "predicted_answer": "South Africa",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e004",
+      "agent_type": "reflexion",
+      "gold_answer": "mathematics",
+      "predicted_answer": "Mathematics",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e005",
+      "agent_type": "reflexion",
+      "gold_answer": "Tokyo",
+      "predicted_answer": "Tokyo",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e006",
+      "agent_type": "reflexion",
+      "gold_answer": "Spanish",
+      "predicted_answer": "Spanish",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e007",
+      "agent_type": "reflexion",
+      "gold_answer": "Albert Einstein",
+      "predicted_answer": "Albert Einstein",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e008",
+      "agent_type": "reflexion",
+      "gold_answer": "trumpet",
+      "predicted_answer": "Trumpet",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e009",
+      "agent_type": "reflexion",
+      "gold_answer": "University of Oxford",
+      "predicted_answer": "University of Oxford",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e010",
+      "agent_type": "reflexion",
+      "gold_answer": "tennis",
+      "predicted_answer": "Tennis",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e011",
+      "agent_type": "reflexion",
+      "gold_answer": "Egypt",
+      "predicted_answer": "Egypt",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e012",
+      "agent_type": "reflexion",
+      "gold_answer": "engineering",
+      "predicted_answer": "Engineering",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e013",
+      "agent_type": "reflexion",
+      "gold_answer": "Mars",
+      "predicted_answer": "Mars",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e014",
+      "agent_type": "reflexion",
+      "gold_answer": "bear",
+      "predicted_answer": "Bear",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e015",
+      "agent_type": "reflexion",
+      "gold_answer": "Pacific Ocean",
+      "predicted_answer": "The Pacific Ocean",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e016",
+      "agent_type": "reflexion",
+      "gold_answer": "University of Cambridge",
+      "predicted_answer": "University of Cambridge",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e017",
+      "agent_type": "reflexion",
+      "gold_answer": "cello",
+      "predicted_answer": "Cello",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e018",
+      "agent_type": "reflexion",
+      "gold_answer": "Argentina",
+      "predicted_answer": "Argentina",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e019",
+      "agent_type": "reflexion",
+      "gold_answer": "biology",
+      "predicted_answer": "Biology",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e020",
+      "agent_type": "reflexion",
+      "gold_answer": "German",
+      "predicted_answer": "German",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e021",
+      "agent_type": "reflexion",
+      "gold_answer": "Germany",
+      "predicted_answer": "Germany",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e022",
+      "agent_type": "reflexion",
+      "gold_answer": "trumpet",
+      "predicted_answer": "Trumpet",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e023",
+      "agent_type": "reflexion",
+      "gold_answer": "University of Oxford",
+      "predicted_answer": "University of Oxford",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e024",
+      "agent_type": "reflexion",
+      "gold_answer": "swimming",
+      "predicted_answer": "Swimming",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e025",
+      "agent_type": "reflexion",
+      "gold_answer": "Kenya",
+      "predicted_answer": "Kenya",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e026",
+      "agent_type": "reflexion",
+      "gold_answer": "physics",
+      "predicted_answer": "Physics",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e027",
+      "agent_type": "reflexion",
+      "gold_answer": "Arabic",
+      "predicted_answer": "Arabic",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e028",
+      "agent_type": "reflexion",
+      "gold_answer": "Thailand",
+      "predicted_answer": "Thailand",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "e029",
+      "agent_type": "reflexion",
+      "gold_answer": "piano",
+      "predicted_answer": "Piano",
+      "is_correct": true,
+      "attempts": 2,
+      "failure_mode": "none",
+      "reflection_count": 1
+    },
+    {
+      "qid": "e030",
+      "agent_type": "reflexion",
+      "gold_answer": "University of Calcutta",
+      "predicted_answer": "University of Calcutta",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    }
+  ],
+  "extensions": [
+    "structured_evaluator",
+    "reflection_memory",
+    "benchmark_report_json"
+  ],
+  "discussion": "Reflexion improved exact match by allowing the agent to inspect failed attempts and retry with reflection memory. The largest gains appeared in multi-hop cases where the first attempt stopped too early or selected the wrong second-hop entity. The trade-off was higher token usage and latency due to additional evaluator and reflector calls. On a local Ollama setup, this overhead was measurable but acceptable for benchmarking. A larger benchmark on at least 100 HotpotQA examples is still needed to validate whether the improvement generalizes beyond the mini dataset."
+}
